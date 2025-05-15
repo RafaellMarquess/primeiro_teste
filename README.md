@@ -1,3 +1,3 @@
-# Meu primeiro c
+# Meu primeiro
 
 exemplo de exemplo
